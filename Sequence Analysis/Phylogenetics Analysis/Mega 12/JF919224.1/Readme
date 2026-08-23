@@ -1,1 +1,6 @@
-
+Combined sequence.fasta: Contains the original DNA sequences downloaded in FASTA format from NCBI. 
+These sequences are the input for the multiple sequence alignment in the MEGA 12 software.
+Combined sequence alignment.fasta: This is the MEGA 12 alignment session file which can be reopened to continue working.
+Aligned.fas: Contains the same aligned sequences but in FASTA format.
+Newick file for iTOL: Contains the final phylogenetic tree information in a format supported by other softwares, more specifically iTOL.
+Phylo tree.png: An image of the phylogenetic tree generated using the Neighbor-Joining (NJ) method.
