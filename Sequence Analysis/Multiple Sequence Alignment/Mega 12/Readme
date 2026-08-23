@@ -1,1 +1,7 @@
-
+Alignment file: this file shows one nucleotide sequence of Cytochrome C aligned with 3 other sequences. 
+Each stretch is 60 nucleotides long, aligned with nucleotides of other species. 
+The gaps (-) show that insertions or deletions may have occured as part of evolutionary changes in the sequence.
+The asterisk (*) means that that specific nucleotide has been conserved (remains the same) throughout all the sequences being aligned.
+Guide tree: it is an order in which the sequences are aligned on the basis of similarity. Most similar sequences are aligned first and so on.
+Phylogenetic tree: it is intended to show the true evolutionary history of the sequences after the sequences are aligned, 
+to show which species are more closely related than others.
