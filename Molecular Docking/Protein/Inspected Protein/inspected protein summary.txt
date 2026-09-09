@@ -1,0 +1,14 @@
+Detected 4 CPU cores.  Enabled multithreaded rendering.
+HEADER    LYASE                                   10-JUN-09   3HS4
+TITLE     HUMAN CARBONIC ANHYDRASE II COMPLEXED WITH ACETAZOLAMIDE
+COMPND    MOL_ID: 1;
+COMPND   2 MOLECULE: CARBONIC ANHYDRASE 2;
+COMPND   3 CHAIN: A;
+COMPND   4 SYNONYM: CARBONIC ANHYDRASE II, CA-II, CARBONATE DEHYDRATASE II,
+COMPND   5 CARBONIC ANHYDRASE C, CAC;
+COMPND   6 EC: 4.2.1.1;
+COMPND   7 ENGINEERED: YES
+ObjectMolecule: Read secondary structure assignments.
+ObjectMolecule: Read crystal symmetry information.
+CmdLoad: "" loaded as "3HS4".
+
