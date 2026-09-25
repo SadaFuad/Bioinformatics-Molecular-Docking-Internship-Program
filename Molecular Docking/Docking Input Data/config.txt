@@ -1,0 +1,12 @@
+receptor = clean 3HS4.pdbqt
+
+center_x = -5.41
+center_y = 3.08
+center_z = 15.03
+
+size_x = 22
+size_y = 22
+size_z = 22
+
+exhaustiveness = 8
+num_modes = 9

@@ -1,0 +1,18 @@
+npts 22 22 22                        # num.grid points in xyz
+gridfld clean 3HS4.maps.fld          # grid_data_file
+spacing 0.375                        # spacing(A)
+receptor_types A C H HD N NA OA SA Zn # receptor atom types
+ligand_types A C HD N NA OA SA       # ligand atom types
+receptor clean 3HS4.pdbqt            # macromolecule
+gridcenter -5.41 3.08 15.03          # xyz-coordinates or auto
+smooth 0.5                           # store minimum energy w/in rad(A)
+map clean 3HS4.A.map                 # atom-specific affinity map
+map clean 3HS4.C.map                 # atom-specific affinity map
+map clean 3HS4.HD.map                # atom-specific affinity map
+map clean 3HS4.N.map                 # atom-specific affinity map
+map clean 3HS4.NA.map                # atom-specific affinity map
+map clean 3HS4.OA.map                # atom-specific affinity map
+map clean 3HS4.SA.map                # atom-specific affinity map
+elecmap clean 3HS4.e.map             # electrostatic potential map
+dsolvmap clean 3HS4.d.map              # desolvation potential map
+dielectric -0.1465                   # <0, AD4 distance-dep.diel;>0, constant
